@@ -2,8 +2,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import homeImg from "../assets/images/logo.webp"
-const HomePage = () => {
-  return (
+const HomePage = () => (
     <div>
     <Helmet>
       <title>Home Page</title>
@@ -18,6 +17,6 @@ const HomePage = () => {
     <p>Welcome to the home page!</p>
   </div>
   );
-}
+
 
 export default HomePage;

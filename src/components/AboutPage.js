@@ -2,8 +2,7 @@
 import React from 'react';
 import { Helmet } from 'react-helmet-async';
 import aboutImg from "../assets/images/about-us-concept.webp"
-const AboutPage = () => {
-  return (
+const AboutPage = () => (
     <div>
     <Helmet>
       <title>About Page</title>
@@ -18,7 +17,7 @@ const AboutPage = () => {
     <p>Learn more about us on this page.</p>
     </div>
   );
-}
+
 
 
 export default AboutPage;
