@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/og-helment-test/static/css/main.e6c13ad2.css",
+    "main.js": "/og-helment-test/static/js/main.ecab6736.js",
+    "static/js/453.6508dece.chunk.js": "/og-helment-test/static/js/453.6508dece.chunk.js",
+    "static/media/contact-us-image.webp": "/og-helment-test/static/media/contact-us-image.fd3fc6a1fb75c852a31b.webp",
+    "static/media/about-us-concept.webp": "/og-helment-test/static/media/about-us-concept.b2539a4f44dc6759038f.webp",
+    "static/media/logo.webp": "/og-helment-test/static/media/logo.9cef633e4241c081c68a.webp",
+    "index.html": "/og-helment-test/index.html",
+    "main.e6c13ad2.css.map": "/og-helment-test/static/css/main.e6c13ad2.css.map",
+    "main.ecab6736.js.map": "/og-helment-test/static/js/main.ecab6736.js.map",
+    "453.6508dece.chunk.js.map": "/og-helment-test/static/js/453.6508dece.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ecab6736.js"
+  ]
+}
